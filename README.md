@@ -1,1 +1,2 @@
 # Sales-and-Revenue-Analysis
+This project presents an interactive Sales Performance & Revenue Analysis Dashboard built using Power BI to analyze ₹35.14 Cr revenue and 7986 customers. It provides a multi-level view of business performance, covering overall sales trends, team contributions, and individual engineer performance. The dashboard highlights key insights such as order status distribution, top revenue contributors, and daily sales patterns, enabling effective monitoring and data-driven decision-making.
